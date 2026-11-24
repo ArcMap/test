@@ -1,29 +1,16 @@
-1. How many applications or teams currently use MP?
+Hi Immigration Team,
 
-MP is a company-wide mapping platform supporting 40+ applications across multiple business areas. The modernization protects existing investments, provides a common mapping solution, and allows multiple teams to benefit from new features without developing separate solutions.
+I would like to follow up on the status of my H-1B extension filing and understand the expected timeline for filing and approval.
 
-2. What measurable performance improvements were achieved?
+Due to certain family circumstances back home, where my father is living alone, I may need to travel at short notice in case of a family emergency. Therefore, it is important for me to remain visa-ready at all times to avoid any potential travel restrictions or delays.
 
-The new MP delivers faster map loading, smoother navigation, better responsiveness, and improved user experience compared to the older version. It also supports mobile devices and modern Angular applications, removing major limitations of the legacy platform and improving long-term performance and scalability.
+Considering the current circumstances, I would sincerely appreciate your support in prioritizing my extension filing so that I can receive the approval on time and plan my visa stamping appointment accordingly.
 
-3. How did reusable components reduce development effort and costs?
+Could you please provide an update on the current status, expected filing timeline, and whether there is any possibility of expediting the process?
 
-The new MP provides 8+ reusable components with advanced mapping capabilities, reducing duplicate development and simplifying integration.
+Please let me know if any additional documentation or action is required from my end to facilitate the filing.
 
-Multiple teams are now approaching us with new requirements, recognizing opportunities to introduce features that were limited or unavailable in the older version. These components can be developed once and reused across applications, accelerating delivery and reducing maintenance costs.
+Thank you for your understanding and support.
 
-For example, saving just 20 development hours per application across 40 applications represents 800 hours or approximately $60,000 in potential cost savings, assuming $75 per hour.
-
-4. How many components, features, or enhancements were delivered?
-
-Modernized 8+ core mapping components, developed approximately 95% of one major GGAT UI, and delivered significant improvements in application design, map integration, and time-based visualization.
-
-The modernization also enables future capabilities such as 3D scenes, realistic infrastructure views, heatmaps, advanced editing, smarter location analysis, and interactive visualization, allowing teams to introduce new features based on their business needs.
-
-5. What improvements were achieved in stability, maintainability, and user experience?
-
-The modernization replaced outdated technology that restricted Angular upgrades, lacked mobile compatibility, and offered limited flexibility.
-
-The new MP provides a faster, more reliable, mobile-friendly, and future-ready mapping experience. It reduces dependency on unsupported technology, simplifies maintenance, and allows new capabilities to be introduced centrally and shared across 40+ applications.
-
-Most importantly, MP has evolved from a limited mapping library into a shared innovation platform, attracting growing interest from teams and creating long-term business value through faster delivery, reduced costs, and continuous innovation.
+Best regards,
+Saurabh
